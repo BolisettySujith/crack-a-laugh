@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'lightsOut',
 ]
 
 # Look into CORS Whitelisting and dont forget to add your apps to INSTALLLED_APPS

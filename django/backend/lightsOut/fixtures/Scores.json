@@ -1,0 +1,29 @@
+[
+    {
+        "models":"lightsOut.score",
+        "pk":1,
+        "fields":{
+            "names":"Sevagan",
+            "Wins":"2",
+            "Loses":"5"
+        }
+    },
+    {
+        "models":"lightsOut.score",
+        "pk":2,
+        "fields":{
+            "names":"akhil",
+            "Wins":"3",
+            "Loses":"6"
+        }
+    },
+    {
+        "models":"lightsOut.score",
+        "pk":3,
+        "fields":{
+            "names":"Yash",
+            "Wins":"3",
+            "Loses":"7"
+        }
+    }  
+]

@@ -1,0 +1,29 @@
+[
+    {
+      "model": "lightsOut.category",
+      "pk": 1,
+      "fields": {
+        "name": "Ram",
+        "wins": 5,
+        "loses": 7
+      }
+    },
+    {
+        "model": "lightsOut.category",
+        "pk": 2,
+        "fields": {
+          "name": "Lucky",
+          "wins": 5,
+          "loses": 5
+        }
+    },
+    {
+        "model": "lightsOut.category",
+        "pk": 3,
+        "fields": {
+          "name": "Banti",
+          "wins": 1,
+          "loses": 3
+        }
+    }
+]
