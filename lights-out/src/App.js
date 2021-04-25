@@ -4,6 +4,7 @@ import "./App.css";
 
 /** Simple app that just shows the LightsOut game. */
 
+/**THe main file which control all the remaing files */
 // Also you might wanna encapsulate <App /> with ApolloProvider to allow for any query anywhere in this application
 // uri should be localhost in this case
 
